@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm bsoker
 
-<!--
-**bsoker/bsoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineer building secure backend systems and automation solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Backend Developer (Node.js, Express, SQL)
+- 🔐 Interested in Web Security & OWASP
+- ⚙️ Experience in PLC & Embedded Systems
+- 🤖 Building automation and business systems
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Node.js
+- Express.js
+- MySQL / MS SQL
+- REST API
+- Docker (basic)
+
+### Security
+- OWASP Top 10
+- Linux
+- Web Security Testing
+
+### Embedded & Automation
+- Arduino
+- PLC Programming
+- IoT Systems
+- Hardware Integration
+
+---
+
+## 📌 Highlight Projects
+
+- 🔐 Web Security Training Platform (Node.js + Docker)
+- 🤖 AI Translator Discord Bot (Python)
+- 🌡 IoT Environmental Monitoring System
+- 🏭 PLC-Based Automation System
+
+---
+
+## 📫 Contact
+
+- Email: yberksoker@gmail.com
+- LinkedIn: (Coming Soon)
